@@ -38,7 +38,7 @@ kinds of membrane-embedded proteins.For some more information see
 To get a copy of "benchMEM", run the following from your work directory:
 
 ```
-wget https://www.mpibpc.mpg.de/15101317/benchMEM.zip
+wget https://www.mpinat.mpg.de/benchMEM
 unzip benchMEM.zip
 ```
 {: .language-bash}
